@@ -32,6 +32,7 @@ Com a Amazon Virtual Private Cloud (Amazon VPC), é possível iniciar recursos d
 
 <p align="center">
   <img src="https://github.com/PinheiroChequin/TrabalhoDocker/assets/129349503/f4e098f6-8918-4ba0-a9b7-b06f8c441832">
+  Fonte: [Como funciona a Amazon VPC?](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/how-it-works.html)
 </p>
 
 ## **Criação de uma VPC**
